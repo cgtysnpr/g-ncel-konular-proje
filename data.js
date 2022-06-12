@@ -1,0 +1,88 @@
+const data = [
+  {
+    id: 1,
+    talk: 'acıktım',
+    color: '#edb53b',
+    image: 'https://cdn-icons-png.flaticon.com/512/198/198416.png',
+    title: 'Acıktım',
+  },
+  {
+    id: 2,
+    talk: 'susadım',
+    color: '#5b71eb',
+    image:
+      'https://pngroyale.com/wp-content/uploads/2022/02/water-glass-icon-download-png-and-vector--768x768.png',
+    title: 'Susadım',
+  },
+  {
+    id: 3,
+    talk: 'banyo yapmak istiyorum',
+    color: '#589fd1',
+    image: 'https://cdn-icons-png.flaticon.com/512/760/760637.png',
+    title: 'Banyo',
+  },
+  {
+    id: 4,
+    talk: 'uykum geldi',
+    color: '#696969',
+    image: 'https://cdn-icons-png.flaticon.com/512/2206/2206554.png',
+    title: 'Uyumak',
+  },
+  {
+    id: 5,
+    talk: 'bakar mısınız lütfen',
+    color: '#858a54',
+    image: 'https://cdn-icons-png.flaticon.com/512/1464/1464749.png',
+    title: 'Çağırma',
+  },
+  {
+    id: 6,
+    talk: 'tuvalete gitmem gerekiyor',
+    color: '#6aab67',
+    image: 'https://cdn-icons-png.flaticon.com/512/2203/2203644.png',
+    title: 'Tuvalet',
+  },
+  {
+    id: 7,
+    talk: 'şarkı dinlemek istiyorum',
+    color: '#9e63f7',
+    image: 'https://cdn-icons-png.flaticon.com/512/2907/2907253.png',
+    title: 'Şarkı',
+  },
+  {
+    id: 8,
+    talk: 'televizyon izlemek istiyorum',
+    color: '#e6eda4',
+    image: 'https://cdn-icons-png.flaticon.com/512/2502/2502125.png',
+    title: 'Televizyon',
+  },
+  {
+    id: 9,
+    talk: 'dışarı çıkmak istiyorum',
+    color: '#c9452a',
+    image: 'https://cdn-icons-png.flaticon.com/512/3487/3487455.png',
+    title: 'Dışarı Çıkmak',
+  },
+  {
+    id: 10,
+    talk: 'oyun oynamak istiyorum',
+    color: '#edb53b',
+    image: 'https://cdn-icons-png.flaticon.com/128/1607/1607056.png',
+    title: 'Oyun Oynamak',
+  },
+  {
+    id: 11,
+    talk: 'seni seviyorum',
+    color: '#ed7b8e',
+    image: 'https://cdn-icons-png.flaticon.com/512/3010/3010989.png',
+    title: 'Seni Seviyorum',
+  },
+  {
+    id: 12,
+    talk: 'parka gitmek istiyorum',
+    color: '#abdb86',
+    image: 'https://cdn-icons-png.flaticon.com/512/2830/2830251.png',
+    title: 'Parka Gitmek',
+  },
+];
+export default data;
